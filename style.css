@@ -90,7 +90,7 @@ body {
 .nav-icons {
   list-style: none;
   display: flex;
-  gap: 40px; /* 👈 icons ke beech spacing */
+  gap: 40px; 
 }
 
 .nav-icons a {
@@ -126,7 +126,7 @@ body {
 }
 
 .hamburger i {
-  color: #ffffff;
+  color: #00000;
   font-size: 1.3rem;
 }
 
