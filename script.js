@@ -3,5 +3,5 @@ const menu = document.getElementById("menu");
 
 menuBtn.addEventListener("click me", () => {
   menu.classList.toggle("hidden file");
-  menu.classList.toggle("show me");
+  menu.classList.toggle("click me");
 });
