@@ -45,7 +45,7 @@ body {
   border-radius: 30px;
 }
 .hero {
-  min-height: 100vh;
+  min-height: 10vh;
   display: flex;
   align-items: center;
   justify-content: space-between;
